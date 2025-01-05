@@ -48,7 +48,9 @@ export const Footer = () => {
             REHANK.
           </h1>
           <h1 className="md:hidden text-9xl font-bold text-white opacity-10">
-            REHANK. <br />
+            REHAN <br /> K.
+
+            
            
           </h1>
         </div>
