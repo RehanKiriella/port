@@ -56,7 +56,7 @@ export const Footer = () => {
         {/* Social Media Links */}
         <div className="relative mt-12 container flex sm:justify-between justify-center items-center gap-10 max-sm:flex-col">
           <p className="text-gray-200 text-sm text-center sm:text-left">
-            © 2024 All rights reserved by Rehan Kiriella
+            © 2025 All rights reserved by Rehan Kiriella
           </p>
           <ul className="flex gap-5">
             <li>
