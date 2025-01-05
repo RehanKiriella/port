@@ -66,14 +66,14 @@ export const Portfolio = () => {
                                 <p className="text-emerald-400/60 font-medium mb-4 capitalize">
                                     Type: {project.type}
                                 </p>
-                                <div className="mt-auto">
+                                {/* <div className="mt-auto">
                                     <a
                                         href={project.git}
                                         className="text-gray-400 text-3xl hover:text-gray-300 transition-colors"
                                     >
                                         <FaGithub />
                                     </a>
-                                </div>
+                                </div> */}
                             </div>
                         </motion.div>
                     ))}
