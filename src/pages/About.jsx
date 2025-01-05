@@ -62,7 +62,7 @@ export const About = () => {
                     <div>
                         <h3 className="text-2xl font-bold mb-2">03. Skills</h3>
                         <p className="text-white/50 mb-4">
-                            I'm proficient in the following languages:
+                            I'm proficient in the following languages: 
                         </p>
                         <div className="grid grid-cols-1 text-center gap-4">
                             <div className="border border-white/20 rounded-lg p-3">
@@ -97,7 +97,7 @@ export const About = () => {
                         </div>
                     </div>
                     <div className="mt-4">
-                        <label className="block text-sm font-medium mb-1">Front-End</label>
+                        <label className="block text-sm font-medium mb-1">FrontEnd</label>
                         <div className="w-full bg-white/10 rounded-full h-2">
                             <div
                                 className={`bg-emerald-300 h-2 rounded-full transition-all duration-1000 ${
@@ -105,7 +105,7 @@ export const About = () => {
                                 }`}
                             ></div>
                         </div>
-                        <label className="block text-sm font-medium mt-4 mb-1">Back-End</label>
+                        <label className="block text-sm font-medium mt-4 mb-1">BackEnd</label>
                         <div className="w-full bg-white/10 rounded-full h-2">
                             <div
                                 className={`bg-emerald-300 h-2 rounded-full transition-all duration-1000 ${
