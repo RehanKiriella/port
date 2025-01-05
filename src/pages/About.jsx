@@ -64,7 +64,7 @@ export const About = () => {
                         <p className="text-white/50 mb-4">
                             I'm proficient in the following languages:
                         </p>
-                        <div className="grid grid-cols-2 gap-4">
+                        <div className="grid grid-cols-1 text-center gap-4">
                             <div className="border border-white/20 rounded-lg p-3">
                                 <h4 className="text-emerald-300 font-medium mb-2">Frontend</h4>
                                 <ul className="text-white space-y-1 text-sm">
