@@ -62,7 +62,7 @@ export const About = () => {
                     <div>
                         <h3 className="text-2xl font-bold mb-2">03. Skills</h3>
                         <p className="text-white/50 mb-4">
-                            I'm proficient in the following languages: 
+                            I'm proficient in the following languages; 
                         </p>
                         <div className="grid grid-cols-1 text-center gap-4">
                             <div className="border border-white/20 rounded-lg p-3">
